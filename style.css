@@ -1,0 +1,18 @@
+body 
+{
+background-color: bisque;
+background-image: url("fotos/background-site.jpg");
+background-repeat: repeat-y;
+
+}
+
+div
+{
+width: 960px;
+margin: auto;
+}
+
+legend
+{
+    background-color: aliceblue;
+}
